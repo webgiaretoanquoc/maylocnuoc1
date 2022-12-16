@@ -1,0 +1,46 @@
+/*
+Theme Name: Flatsome Child
+Description: NamKiem developed for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.11.3
+*/
+
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+/*
+Bạn có thể thêm CSS ở đây.
+*/
+.header-title{    font-size: 24px;
+	color: #e26011;
+	font-weight: bold;    margin-top: 27px;text-align: center}
+.hotline{font-size: 17px}
+.header-info{    font-style: italic;
+	font-weight: bold;
+	font-size: 17px;
+	color: #5bac1e;
+	margin-top: -5px;text-align: center}
+.dem-nguoc{margin-top:17px}
+.price .col-inner{border-radius:4px}
+.sieu-pham .col-inner{border:2px solid white; border-radius: 4px}
+input[type='text'],input[type='tel'],textarea, input[type='submit']:not(.is-form){    border-radius: 4px;}
+.thong-so .col{    padding: 0 15px 0px;}
+.accordion-title{    font-size: 100%;}
+.accordion a.plain{color: black}
+.img-img .img .img-inner{border-radius: 4px}
+.footer .row-small>.col{    padding: 0 9.8px 0px;}
+.is-divider{display:none}
+.is-xsmall{display:none}
+footer.entry-meta{display:none}
+.entry-header .relative{display:none}
+.entry-header .badge.post-date{display:none}
+.entry-content{padding-top: 0em;
+	padding-bottom:0em;}
+.entry-header-text{    padding: 1.5em 0 0.6em;}
+
+
+
+@media only screen and (max-width: 48em) {
+	/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+}
